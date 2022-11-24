@@ -16,5 +16,8 @@
 		"editor.defaultFormatter": "esbenp.prettier-vscode"
 	},
 	"conventionalCommits.scopes": ["api"],
-	"git.branchProtection": ["main"]
+	"git.branchProtection": [
+		"main"
+	],
+	"sarif-viewer.connectToGithubCodeScanning": "on"
 }
